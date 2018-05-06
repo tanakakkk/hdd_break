@@ -1,0 +1,12 @@
+﻿17/02/09 09:22:28 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\Private\program班講習資料\201703齊藤 主真\ソースコード\dxlibテンプレ\dxlibテンプレ.vcxproj" (Build ターゲット)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Private\program班講習資料\201703齊藤 主真\ソースコード\Release\hddbreak.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Private\program班講習資料\201703齊藤 主真\ソースコード\Release\hddbreak.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Private\program班講習資料\201703齊藤 主真\ソースコード\Release\hddbreak.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         コード生成しています。
+         コード生成が終了しました。
+         dxlibテンプレ.vcxproj -> D:\Private\program班講習資料\201703齊藤 主真\ソースコード\Release\hddbreak.exe
+     1>プロジェクト "D:\Private\program班講習資料\201703齊藤 主真\ソースコード\dxlibテンプレ\dxlibテンプレ.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.12

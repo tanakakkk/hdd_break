@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中間ディレクトリ (Debug\) に別のプロジェクト (dxlibテンプレ.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  dxlibテンプレ.vcxproj -> C:\Users\saito\Downloads\gameplayhearingsheet\齊藤 主真\齊藤主真20180506\Debug\hddbreak.exe
